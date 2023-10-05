@@ -11,3 +11,8 @@ Leurs aventures continuent sur Grand Line où ils vont se faire de nouveaux alli
 Durant ce combat Luffy va battre Crocodile,qui a mangé un fruit de type logia qui en fait un homme-sable, un des septs grands corsaires (des pirates travaillant pour le gouvernement) et sauver Robin, qui même si elle travaillait pour Crocodile, va rejoindre l'équipage de Luffy en tant qu'archéologue
 
 ![Saga_Alabasta](https://github.com/THELU-Nathan-2326105b/tp1-wiki/assets/146345586/28cedf4d-4893-4980-9a8e-a71a7912167a)
+
+## 3. [La saga Skypiea](https://onepiece.fandom.com/fr/wiki/Saga_Skypiea)
+Le prochain voyage de Luffy se situe dans le ciel, en effet après avoir découvert l'existence des îles celestes, ils décident d'y aller en empruntant un courant marin qui monte jusqu'à plusieurs kilomètres dans le ciel, ainsi ils atteignent les îles celestes mais attisent la colère de Dieu, le dirigeant de l'île celeste où ils se trouvent, Ener. Un homme-foudre que personne ne peut toucher sauf Luffy qui a un corps fait de caoutchouc, conduisant donc l'électricité ce qui rend possible le fait que Luffy puisse toucher Ener. Dans le même temps, une guerre a lieu entre des décendants d'habitants de la terre et le groupe d'Ener. Luffy y mettra fin en battant Ener et faisant sonner la Grande Cloche d'Or.
+
+![Skypiea](https://github.com/THELU-Nathan-2326105b/tp1-wiki/assets/146345586/24995984-a4fa-4575-a804-57f632b01df9)
