@@ -1,6 +1,6 @@
 # Equipage
 ## 1. [Monkey D. Luffy](https://onepiece.fandom.com/fr/wiki/Monkey_D._Luffy)
-Luffy vient d'un petit village sur l'île de Goa dans les mers d'East Blue. C'est un Homme-élastique qui combat en utilisant ses pouvoirs([Gear 2](https://onepiece.fandom.com/fr/wiki/Gear_Second_Techniques), [Gear 3](https://onepiece.fandom.com/fr/wiki/Gear_Third_Techniques), [Gear 4](https://onepiece.fandom.com/fr/wiki/Gear_Fourth_Techniques), [Gear 5](https://onepiece.fandom.com/fr/wiki/Gear_Fifth_Techniques)) ainsi que différents type de [haki](https://onepiece.fandom.com/fr/wiki/haki) (le Haki des rois, de l'armement et de l'observation).
+Luffy vient d'un petit village sur l'île de Goa dans les mers d'[East Blue](https://github.com/THELU-Nathan-2326105b/tp1-wiki/blob/main/README.md). C'est un Homme-élastique qui combat en utilisant ses pouvoirs([Gear 2](https://onepiece.fandom.com/fr/wiki/Gear_Second_Techniques), [Gear 3](https://onepiece.fandom.com/fr/wiki/Gear_Third_Techniques), [Gear 4](https://onepiece.fandom.com/fr/wiki/Gear_Fourth_Techniques), [Gear 5](https://onepiece.fandom.com/fr/wiki/Gear_Fifth_Techniques)) ainsi que différents type de [haki](https://onepiece.fandom.com/fr/wiki/haki) (le Haki des rois, de l'armement et de l'observation).
 
 ![Luffy](https://github.com/THELU-Nathan-2326105b/tp1-wiki/assets/146345586/bff5125b-2b16-451a-854f-e036bfd40d2d)
 
@@ -15,7 +15,7 @@ Nami est la navigatrice de l'équipage du chapeau de paille, elle l'a rejoint ap
 ![Nami](https://github.com/THELU-Nathan-2326105b/tp1-wiki/assets/146345586/9d6be333-992b-41e8-bb87-227753b62882)
 
 ## 4. [Usopp](https://onepiece.fandom.com/fr/wiki/Usopp)
-Usopp est le sniper de l'équipage, il vient d'East Blue et est extremement peureux. Il utilise un lance piere géant et des plantes qui peuvent attaquer les gens ou encore faire du feu.
+Usopp est le sniper de l'équipage, il vient d'[East Blue](https://github.com/THELU-Nathan-2326105b/tp1-wiki/blob/main/README.md) et est extremement peureux. Il utilise un lance piere géant et des plantes qui peuvent attaquer les gens ou encore faire du feu.
 
 ![Ussop](https://github.com/THELU-Nathan-2326105b/tp1-wiki/assets/146345586/d67ec18c-6ccb-4a25-9c0b-58ffe756fcff)
 
