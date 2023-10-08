@@ -22,4 +22,4 @@ Usopp est le sniper de l'équipage, il vient d'[East Blue](https://github.com/TH
 ## 5. [Vinsmoke Sanji](https://onepiece.fandom.com/fr/wiki/Sanji)
 Vinsmoke Sanji estle cuisinier de l'équipage du chapeau de paille, c'est aussi un des plus puissants membre de l'équipage qui se bat en utilisant uniquement ses pieds. Il possede aussi les différents type de [haki](https://onepiece.fandom.com/fr/wiki/haki).
 
-![sanji](https://github.com/THELU-Nathan-2326105b/tp1-wiki/assets/146345586/4012be7b-70a3-4fbf-b09c-b5959c7b50b3)
+<img src="https://github.com/THELU-Nathan-2326105b/tp1-wiki/assets/146345586/4012be7b-70a3-4fbf-b09c-b5959c7b50b3" width="40%">
